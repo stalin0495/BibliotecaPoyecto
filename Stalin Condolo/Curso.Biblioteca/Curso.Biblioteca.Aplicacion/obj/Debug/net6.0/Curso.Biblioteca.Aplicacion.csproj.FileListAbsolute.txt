@@ -1,0 +1,34 @@
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.csproj.AssemblyReference.cache
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.AssemblyInfoInputs.cache
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.AssemblyInfo.cs
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.csproj.CoreCompileInputs.cache
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Aplicacion.deps.json
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Aplicacion.dll
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Aplicacion.pdb
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Dominio.dll
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Infraestructura.dll
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Dominio.pdb
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Infraestructura.pdb
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.csproj.CopyComplete
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.dll
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\refint\Curso.Biblioteca.Aplicacion.dll
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.pdb
+D:\Development\source\repos\Evaluacion\2 EntityFramework - Entidades y configuracion de mapeo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\ref\Curso.Biblioteca.Aplicacion.dll
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Aplicacion.deps.json
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Aplicacion.dll
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\ref\Curso.Biblioteca.Aplicacion.dll
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Aplicacion.pdb
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Dominio.dll
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Infraestructura.dll
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Dominio.pdb
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\bin\Debug\net6.0\Curso.Biblioteca.Infraestructura.pdb
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.AssemblyInfo.cs
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.csproj.CopyComplete
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.dll
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\ref\Curso.Biblioteca.Aplicacion.dll
+C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Aplicacion\obj\Debug\net6.0\Curso.Biblioteca.Aplicacion.pdb

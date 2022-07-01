@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ed7ef2d-8f9b-4f06-b679-e3a5d091db1d": {
+      "ProjectGuid": "5ed7ef2d-8f9b-4f06-b679-e3a5d091db1d",
+      "DisplayName": "Curso.Biblioteca.Infraestructura",
+      "ColorIndex": 0
+    },
+    "b3cc86cb-0f00-4ac1-98de-63146a318c87": {
+      "ProjectGuid": "b3cc86cb-0f00-4ac1-98de-63146a318c87",
+      "DisplayName": "Curso.Biblioteca.WebApi",
+      "ColorIndex": 1
+    },
+    "b9ad1505-71f9-4d20-80e5-55970b5b3064": {
+      "ProjectGuid": "b9ad1505-71f9-4d20-80e5-55970b5b3064",
+      "DisplayName": "Curso.Biblioteca.Dominio",
+      "ColorIndex": 2
+    },
+    "5996a318-3f74-44bc-97c1-21cd0c2d1406": {
+      "ProjectGuid": "5996a318-3f74-44bc-97c1-21cd0c2d1406",
+      "DisplayName": "Curso.Biblioteca.Aplicacion",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
