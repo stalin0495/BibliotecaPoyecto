@@ -22,3 +22,15 @@ C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo
 C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\Curso.Biblioteca.Dominio.dll
 C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\ref\Curso.Biblioteca.Dominio.dll
 C:\Users\sscon\Documents\GitHub\CursoNetJunio\evaluacion-practica\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\Curso.Biblioteca.Dominio.pdb
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\bin\Debug\net6.0\Curso.Biblioteca.Dominio.deps.json
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\bin\Debug\net6.0\Curso.Biblioteca.Dominio.dll
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\bin\Debug\net6.0\ref\Curso.Biblioteca.Dominio.dll
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\bin\Debug\net6.0\Curso.Biblioteca.Dominio.pdb
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\Curso.Biblioteca.Dominio.csproj.AssemblyReference.cache
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\Curso.Biblioteca.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\Curso.Biblioteca.Dominio.AssemblyInfoInputs.cache
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\Curso.Biblioteca.Dominio.AssemblyInfo.cs
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\Curso.Biblioteca.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\Curso.Biblioteca.Dominio.dll
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\ref\Curso.Biblioteca.Dominio.dll
+C:\Users\sscon\Documents\GitHub\BibliotecaPoyecto\Stalin Condolo\Curso.Biblioteca\Curso.Biblioteca.Dominio\obj\Debug\net6.0\Curso.Biblioteca.Dominio.pdb

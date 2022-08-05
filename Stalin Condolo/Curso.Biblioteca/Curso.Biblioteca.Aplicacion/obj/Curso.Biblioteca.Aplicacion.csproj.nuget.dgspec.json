@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj": {}
+    "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj": {
+    "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj",
         "projectName": "Curso.Biblioteca.Aplicacion",
-        "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj",
+        "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj",
         "packagesPath": "C:\\Users\\sscon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj": {
-                "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj"
+              "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj": {
+                "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj"
               },
-              "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj": {
-                "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj"
+              "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj": {
+                "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj": {
+    "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
         "projectName": "Curso.Biblioteca.Dominio",
-        "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
+        "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj",
         "packagesPath": "C:\\Users\\sscon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -127,14 +127,14 @@
         }
       }
     },
-    "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj": {
+    "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
+        "projectUniqueName": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
         "projectName": "Curso.Biblioteca.Infraestructura",
-        "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
+        "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
         "packagesPath": "C:\\Users\\sscon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\obj\\",
+        "outputPath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -155,8 +155,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj": {
-                "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj"
+              "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj": {
+                "projectPath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Dominio\\Curso.Biblioteca.Dominio.csproj"
               }
             }
           }

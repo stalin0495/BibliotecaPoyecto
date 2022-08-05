@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "acPOQabx+FdVgTp222zH0gCc05PFeTfjlyLTZ6Ksr/fTzEuef3Z8xgLVrbMhzjHv8B/w8pIvVDgcD3scTvvo3w==",
+  "dgSpecHash": "H1RZF7Zd0XoRqLB15e90JHb6gRhsLWuJK9ahTs6vT+RJhrpAhhJBz/z5eOWPgZPGTItM3msflgAEYaC1t5lVkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
+  "projectFilePath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Infraestructura\\Curso.Biblioteca.Infraestructura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sscon\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sscon\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

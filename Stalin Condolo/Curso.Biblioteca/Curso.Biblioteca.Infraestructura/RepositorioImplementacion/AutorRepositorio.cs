@@ -13,9 +13,9 @@ namespace Curso.Biblioteca.Infraestructura.RepositorioImplementacion
     public class AutorRepositorio : IAutorRepositorio
     {
             private readonly BibliotecaDbContext context;
-            public AutorRepositorio(BibliotecaDbContext context)
+            public AutorRepositorio(BibliotecaDbContext cntext)
             {
-                context = context;
+                context = cntext;
             }
         
 

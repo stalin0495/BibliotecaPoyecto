@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SHeLFu2EP0gBSciemdXEpAXx/0rbqhvmVzdKJPQPj/jzVC0RoXHn+d5EDy8Ck7i0a0yDNE0XN5AybYlb6je95w==",
+  "dgSpecHash": "oaZolWvf1xuSFbcvY9p2zkYBoHDwbhGHVQ1Dt7ma4rMapHdDi0gvOvD9zsCn76YxnrjBuM0FJwTQHTlqjlcYgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sscon\\Documents\\GitHub\\CursoNetJunio\\evaluacion-practica\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\sscon\\Documents\\GitHub\\BibliotecaPoyecto\\Stalin Condolo\\Curso.Biblioteca\\Curso.Biblioteca.Aplicacion\\Curso.Biblioteca.Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sscon\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\sscon\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
